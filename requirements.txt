@@ -1,6 +1,4 @@
-# Not sure yet
 flask
 yolov4
 opencv-python
-# and more
 
